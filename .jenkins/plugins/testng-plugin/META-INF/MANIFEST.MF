@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: mwaite
+Build-Jdk: 11.0.15
+Extension-Name: testng-plugin
+Specification-Title: The Jenkins Plugins Parent POM Project
+Implementation-Title: testng-plugin
+Implementation-Version: 555.va0d5f66521e3
+Plugin-Class: hudson.plugins.testng.PluginImpl
+Group-Id: org.jenkins-ci.plugins
+Short-Name: testng-plugin
+Long-Name: TestNG Results Plugin
+Url: https://github.com/jenkinsci/testng-plugin-plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 555.va0d5f66521e3
+Hudson-Version: 2.289.1
+Jenkins-Version: 2.289.1
+Plugin-Dependencies: junit:1.53
+Plugin-Developers: Nalin Makar:nullin:nullin@nullin.com
+Plugin-License-Name: The MIT License (MIT)
+Plugin-License-Url: http://opensource.org/licenses/MIT
+Plugin-ScmUrl: https://github.com/jenkinsci/testng-plugin-plugin
+

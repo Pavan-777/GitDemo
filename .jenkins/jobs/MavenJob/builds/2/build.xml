@@ -1,0 +1,38 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>admin</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <testngBuildAction plugin="testng-plugin@555.va0d5f66521e3">
+      <descriptions class="concurrent-hash-map"/>
+      <passCount>9</passCount>
+      <failCount>0</failCount>
+      <skipCount>0</skipCount>
+      <escapeTestDescp>true</escapeTestDescp>
+      <escapeExceptionMsg>true</escapeExceptionMsg>
+      <showFailedBuilds>false</showFailedBuilds>
+    </testngBuildAction>
+  </actions>
+  <queueId>7</queueId>
+  <timestamp>1657607671634</timestamp>
+  <startTime>1657607671642</startTime>
+  <result>SUCCESS</result>
+  <duration>4306</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Users\pavan\.jenkins/practice</workspace>
+  <hudsonVersion>2.346.1</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="java.util.Collections$UnmodifiableSet">
+    <c class="sorted-set"/>
+  </culprits>
+</build>
